@@ -1,5 +1,5 @@
 # Aplikasi manajemen project
-Kelompok 5
+Kelompok 6
 - Choiriyatun Nisa Latansa
 - Abdurrofi al mubarok niauri
 - Choirul Anam
