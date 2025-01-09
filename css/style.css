@@ -1,0 +1,89 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .navbar-brand {
+  font-weight: bold;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #333;
+}
+
+.navbar .navbar-nav .nav-link.active {
+  color: #fff;
+  background-color: #ffc107;
+  border-radius: 5px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #fff;
+  background-color: #ffc107;
+  transition: 0.3s;
+}
+
+/* Container Margin */
+.container {
+  margin-top: 0px;
+}
+
+.text-center {
+  margin-top: 40px;
+}
+
+/* Alert Message */
+.alert {
+  margin-top: 20px;
+}
+
+/* Form Wrapper */
+form {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form .form-label {
+  font-weight: bold;
+}
+
+form .btn {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+/* Buttons */
+.btn-success {
+  background-color: #0059ff;
+  border: none;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+/* Table Styling */
+.table-hover tbody tr:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.table-dark th {
+  background-color: #343a40;
+  color: #fff;
+}
