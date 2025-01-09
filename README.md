@@ -63,3 +63,8 @@ Users
 ## Activity Diagram
 
 ![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/d3cd5ae1-d27d-4fd3-9245-2185bbab78de)
+
+## Relasi Database
+
+![CRelasi_Database](https://github.com/user-attachments/assets/635fb690-8624-45c3-bddd-951901e0b232)
+
