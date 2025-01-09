@@ -68,3 +68,11 @@ Users
 
 ![CRelasi_Database](https://github.com/user-attachments/assets/635fb690-8624-45c3-bddd-951901e0b232)
 
+## Class Diagrams
+
+![8f3abfde-15f8-4c74-8db2-6db4fa80ad63](https://github.com/user-attachments/assets/742a5fed-36b1-44fd-a78d-22490c73bfde)
+
+
+
+
+
