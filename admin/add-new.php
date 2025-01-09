@@ -19,7 +19,7 @@ if (isset($_POST['submit'])) {
 
         if ($result) {
             $success = "Berhasil memasukkan data baru";
-            header("Location: index.php?msg=$success");
+            header("Location: ../index.php?msg=$success");
             exit();
         } else {
             $error = "Gagal memasukkan data: " . mysqli_error($conn);
@@ -110,7 +110,7 @@ if (isset($_POST['submit'])) {
 
       <div class="d-flex justify-content-between">
          <button type="submit" class="btn btn-success" name="submit">Save</button>
-         <a href="index.php" class="btn btn-danger">Cancel</a>
+         <a href="../index.php" class="btn btn-danger">Cancel</a>
       </div>
    </form>
 </div>
